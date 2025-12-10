@@ -1,0 +1,10 @@
+During this project I had to do extra research on f-strings
+and format specifiers to properly store the values of the
+string instead of just the name, and to create better formatting
+for the output of the code. I learned that .0f formats the float 
+rounded to 0 decimals, .1f formats the float to 1 decimal, and that
+.2f formats to 2 decimals. This was useful to organize the code in a 
+way that was easily readable and made sense to the user based o their
+inputs. I learned you should input f before the string so the string
+can be a literal, meaning that python will evaluate the values inside
+the {} instead of treating them as plain text.
